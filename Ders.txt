@@ -1,0 +1,9 @@
+Matematik sınavının soru dağılımı: 
+
+2 tane trigonometri soru (sin, cos, tan, cot)
+
+2 tane üçgenin yardımcı elemanları (açıortay, kenarortay, yükseklik)
+
+2 tane üçgenin alanı
+
+2 tane sinüs/kosinüs teoremler (birer birer)
